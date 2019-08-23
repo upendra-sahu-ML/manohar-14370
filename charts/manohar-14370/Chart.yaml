@@ -10,4 +10,4 @@ name: manohar-14370
 orig_name: mssql-linux
 sources:
 - https://hub.docker.com/r/microsoft/mssql-server-linux/
-version: 0.10.0
+version: 0.0.1
